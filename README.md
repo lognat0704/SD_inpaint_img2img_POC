@@ -7,6 +7,7 @@ This project explores different approaches to simulate main features from [Wand]
 
 #### Input:
 Image A: original image
+
 Image B: applied color masked on original image
 
 #### Tryout 1: in-painting fill
